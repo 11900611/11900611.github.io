@@ -1,1 +1,30 @@
-theme: jekyll-theme-cayman
+name: 超爽的捡到一百块
+title: Can'teven
+description: Some Thought Experiments, Some Introspections
+show_downloads: false
+intensedebate_comments: true
+jekyll-feed: true
+baseurl: 
+url: "https://11900611.github.io"
+favicon: /favicon.ico
+
+google_analytics:
+# cayman-blog date format
+# refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
+cayman-blog:
+  date_format: "%b %-d, %Y"
+
+theme: # leave it empty
+
+# social
+author: "超爽的捡到一百块"
+image: /∝.png
+twitter:
+  username: 
+#  site:
+facebook:
+  #publisher: 
+  #profile_id: 
+  app_id: # cayman-blog
+  #authors: 
+#  admins:
