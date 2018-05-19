@@ -5,11 +5,11 @@ show_downloads: false
 intensedebate_comments: true
 jekyll-feed: true
 baseurl: 
-url: "https://11900611.github.io"
+url: "https://Chintse.github.io"
 favicon: /favicon.ico
 
 google_analytics:
-# cayman-blog date format
+# cayman-blog date format ∝
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
 cayman-blog:
   date_format: "%b %-d, %Y"
@@ -18,7 +18,7 @@ theme: # leave it empty
 
 # social
 author: "Chintse"
-image: /∝.png
+image: 
 twitter:
   username: 
 #  site:
